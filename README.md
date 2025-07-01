@@ -6,7 +6,7 @@ It also features an interactive **Streamlit dashboard** where users can input ad
 - 🎯 Streamlit dashboard for interactivity
 - 💾 Model saved with Joblib
   ### 🔗 Live Demo
-👉 [Try the Streamlit App Here](advertising-spend-and-it-shows-predicted-sales.streamlit.app)
+👉 [https://advertising-spend-and-it-shows-predicted-sales.streamlit.app/]
 
       - Python
       - scikit-learn
